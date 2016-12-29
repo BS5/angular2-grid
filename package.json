@@ -2,8 +2,9 @@
   "name": "angular2-grid",
   "version": "0.11.2",
   "description": "A grid-based drag/drop/resize directive plugin for Angular 2",
-  "main": "dist/main.js",
-  "typings": "dist/main.d.ts",
+  "main": "dist/js/main.js",
+  "module": "dist/aot/main.js",
+  "typings": "dist/aot/main.d.ts",
   "scripts": {
     "start": "npm run lite",
     "lite": "lite-server -c bs-config.json",
