@@ -40,12 +40,9 @@
   },
   "homepage": "https://github.com/BTMorton/angular2-grid",
   "files": [
-    "dist/NgGrid*",
-    "dist/main*",
-    "dist/components/*",
-    "dist/directives/*",
-    "dist/interfaces/*",
-    "dist/modules/*"
+    "dist/aot",
+    "dist/js",
+    "dist/NgGrid*"
   ],
   "peerDependencies": {
     "@angular/core": "2.1.1"
@@ -84,7 +81,7 @@
     "run-sequence": "^1.2.1",
     "rxjs": "5.0.0-beta.12",
     "systemjs": "^0.19.29",
-    "typescript": "^2.0.10",
+    "typescript": "~2.0.10",
     "zone.js": "^0.6.21"
   }
 }
