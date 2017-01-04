@@ -39,6 +39,11 @@
     "url": "https://github.com/BTMorton/angular2-grid/issues"
   },
   "homepage": "https://github.com/BTMorton/angular2-grid",
+  "files": [
+    "dist/aot",
+    "dist/js",
+    "dist/NgGrid*"
+  ],
   "peerDependencies": {
     "@angular/core": "2.1.1"
   },
